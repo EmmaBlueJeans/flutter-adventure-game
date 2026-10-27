@@ -1,12 +1,8 @@
 # Flutter Adventure Game
 
-A text-based castle exploration game developed with Flutter and Dart. Players navigate interconnected rooms, collect four items, avoid the dungeon, and return to the Entrance Hall to win.
+A text-based castle exploration game developed with Flutter and Dart for the Mobile Application Development course as part of the Bachelor of Applied Science in Information Technology – Application Development program at Edmonds College. Players navigate interconnected rooms, collect four items, avoid the dungeon, and return to the Entrance Hall to win.
 
 I designed and implemented this as an individual mobile application course project. The project demonstrates stateful interface development, conditional navigation, game-state management, dynamic controls, and responsive user feedback.
-
-## Project Background
-
-This individual project was developed for a mobile application development course in the Bachelor of Applied Science in Information Technology – Application Development program at Edmonds College.
 
 ## Gameplay
 
