@@ -4,6 +4,10 @@ A text-based castle exploration game developed with Flutter and Dart. Players na
 
 I designed and implemented this as an individual mobile application course project. The project demonstrates stateful interface development, conditional navigation, game-state management, dynamic controls, and responsive user feedback.
 
+## Project Background
+
+This individual project was developed for a mobile application development course in the Bachelor of Applied Science in Information Technology – Application Development program at Edmonds College.
+
 ## Gameplay
 
 The player begins in the castle’s Entrance Hall and explores a series of connected rooms. Available movement controls change according to the player’s location.
